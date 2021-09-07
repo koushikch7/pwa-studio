@@ -6,9 +6,7 @@
   },
   "description": "UPWARD specification, guide, and test suite.",
   "main": "./suite/index.js",
-  "bin": {
-    "upward-spec": "./bin/upward-spec"
-  },
+  "bin": "./bin/upward-spec",
   "scripts": {
     "clean": " "
   },
